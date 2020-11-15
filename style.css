@@ -72,8 +72,9 @@ body {
     font-size: 1.5vmax;
     color: #ecf0f1;
     border-top-left-radius: 4px;
-    box-shadow: -1px -1px 3px black;
     padding-left: 1vmax;
+    margin-top: 4vh;
+
 }
 
 ul {
@@ -126,3 +127,9 @@ button {
     padding: 1vw;
     font-size: 1vmax;
 }
+
+#display{
+    background-color: red;
+    cursor: auto;
+}
+
